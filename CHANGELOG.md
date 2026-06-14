@@ -1,24 +1,17 @@
-# Update Version 0.1.3
+# Update Version 0.1.3.5
 
 ## what has changed?
-### UI Changes.
-* Menu UI Changes
-  * Buttons have been changed
-  * Added Change log in game
-  * Ui buttons now have sounds
-  * fade transistions for menus
-  * Whats New? button added to dispaly changelogs
+### More UI Changes.
+* Choose a Class UI has been updated
+  * Details class name
+  * Details Weapon names
+  * Details Utility name
+  * Shows Icons based on Classes Contents
+  * Class Selection Buttons nolonger detail contents
+ 
 
-* Lobby UI Changes
-  * Changed the background from ready color to players color
-  * Added temp level to see how it fits with player names
-  * Added new UI buttons
-  * Changed the look of the Ui
-  * Added ready UI to show when player is ready
-
-* In game UI changes
-  * Changed the Kill feed ui
-  * Changed the weapon display
-  * Changed the Pause menu buttons
-  * Ui buttons now have sounds
-  
+* New Weapon
+  * **Lebamn M1911 Machine Pistol**
+    
+* Classe Change
+  * Raider class now utilizes the new **Lebman M1911 Machine Pistol** 
