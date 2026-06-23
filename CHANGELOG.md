@@ -1,11 +1,20 @@
-# Update Version 0.1.6
+# Update Version 0.1.7
 
 ## What's Changed?
 
-### Gamemodes
+### Attachments
 
-Gamemode functionality has been added! Players can now earn **XP** and **Cash** based on their performance at the end of each match.
-Currently there is only 1 gamemode being free for all that has been impimented.
-### Bug Fixes
+The five weapons now support weapon attachments through the **Create-a-Class** menu. 
+Players can unlock new attachments by leveling up each weapon.
 
-A number of bugs related to players connecting to and interacting with the lobby have been resolved. These fixes improve overall stability, reduce connection issues, and make joining matches a much smoother experience.
+### Attachments Added
+
+* **Reflex Sight** – Provides a **1.5x zoom** for improved target acquisition.
+* **Compact Suppressor** – Reduces weapon spread and tightens shotgun pellet spread by **10%**.
+* **Compact Grip** – Reduces hip-fire recoil and weapon kick by **10%**.
+
+### Weapon Rebalance
+
+All weapons now feature a new **kick** mechanic. Unlike traditional recoil, 
+kick introduces a brief physical movement of the weapon after each shot, 
+requiring players to actively manage their aim.
